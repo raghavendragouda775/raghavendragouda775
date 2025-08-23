@@ -14,25 +14,19 @@
 ## 🚀 Skills  
 
 <p align="center">
-
-  <!-- Docker (spinning gif) -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.gif" alt="Docker" width="60" height="60"/>  
-
-  <!-- Kubernetes (spinning gif) -->
-  <img src="https://raw.githubusercontent.com/nikolalsvk/nikolalsvk/master/kubernetes.gif" alt="Kubernetes" width="60" height="60"/>  
-
-  <!-- AWS (animated gif) -->
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="AWS" width="60" height="60"/>  
-
-  <!-- Terraform -->
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/assets/terraform.gif" alt="Terraform" width="60" height="60"/>  
-
-  <!-- Jenkins -->
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/assets/jenkins.gif" alt="Jenkins" width="60" height="60"/>  
-
-  <!-- Ansible -->
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/assets/ansible.gif" alt="Ansible" width="60" height="60"/>  
-
+  <!-- Cloud -->
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" alt="Ansible" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>
 </p>
 
 ---
