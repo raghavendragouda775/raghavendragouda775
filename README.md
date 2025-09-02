@@ -1,6 +1,6 @@
 👋 Hi, I’m Raghavendra Gouda (@raghavendragouda775).
 👀 I’m passionate about Devops and web development, open-source projects, and innovative tech solutions.
-🌱 I’m currently deepening my knowledge in React,Next.js,Node.js, and real-time collaborative tools.
+🌱 I’m currently deepening my knowledge in Devops, AWS, K8's, CI/CD, Docker, Terraform and other Devops tools.
 💞️ I’m eager to collaborate on open-source contributions, web applications, and tech-driven solutions.
 📫 Feel free to reach me at raghutimmanagoudar22@gmail.com or connect with me on LinkedIn.
 😄 Pronouns: He/Him
@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="60" height="60"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" alt="Ansible" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>
