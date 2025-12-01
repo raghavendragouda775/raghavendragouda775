@@ -14,13 +14,13 @@
   <a href="mailto:raghutimmanagoudar22@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/raghavendra-timmanagoudar-283698258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/raghavendragouda775" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.example" target="_blank">
+  <a href="https://raghut.info" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-04AAFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
