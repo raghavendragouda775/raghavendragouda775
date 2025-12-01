@@ -63,12 +63,14 @@
 ## 📊 GitHub Stats
 
 <!-- Use your GitHub username exactly: raghavendragouda775 -->
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavendragouda775&show_icons=true&count_private=true&theme=radical" alt="Raghavendra's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavendragouda775&show_icons=true&count_private=true&theme=radical&v=2025-12-01T000000" alt="Raghavendra's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendragouda775&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendragouda775&layout=compact&theme=radical&v=2025-12-01T000000" alt="Top languages" />
 </p>
 
 ---
@@ -83,4 +85,4 @@
 ---
 
 ## ✉️ Want to collaborate?
-Drop me a mail at raghutimmanagoudar22@gmail.com or connect on LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+Drop me a mail at raghutimmanagoudar22@gmail.com or connect on LinkedIn: https://www.linkedin.com/in/raghavendra-timmanagoudar
