@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 **About Me**
-```yaml
+
 name: Raghavendra Gouda
 role: DevOps Engineer | MERN Developer
 location: India 🇮🇳
@@ -67,4 +67,4 @@ portfolio: Coming Soon...
 <img src="https://github.com/raghavendragouda775/raghavendragouda775/blob/output/github-contribution-grid-snake-dark.svg" /> </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:1A73E8&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=70" />
 ✨ "In the world of DevOps, automation is peace."
-</div> ```
+</div> 
