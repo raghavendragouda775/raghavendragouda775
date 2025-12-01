@@ -1,20 +1,35 @@
-👋 Hi, I’m Raghavendra Gouda (@raghavendragouda775).
-👀 I’m passionate about Devops and web development, open-source projects, and innovative tech solutions.
-🌱 I’m currently deepening my knowledge in Devops, AWS, K8's, CI/CD, Docker, Terraform and other Devops tools.
-💞️ I’m eager to collaborate on open-source contributions, web applications, and tech-driven solutions.
-📫 Feel free to reach me at raghutimmanagoudar22@gmail.com or connect with me on LinkedIn.
-😄 Pronouns: He/Him
+# 👋 Hi, I’m Raghavendra Gouda (@raghavendragouda775)
+👀 I'm passionate about DevOps and web development, open-source projects, and innovative tech solutions.  
+🌱 Deepening knowledge in DevOps, AWS, K8s, CI/CD, Docker, Terraform.  
+💞️ Open to collaborate on open-source and web apps.  
+📫 raghutimmanagoudar22@gmail.com · Pronouns: He/Him  
 ⚡ Fun fact: I believe every bug has a story—and every story deserves a happy ending (debugged)!
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Full+Stack+Developer;Cloud+%7C+CI%2FCD+%7C+Automation)](https://git.io/typing-svg)
+
+---
+
+## 📫 Contact
+<p>
+  <a href="mailto:raghutimmanagoudar22@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/raghavendragouda775" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.example" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-04AAFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Skills  
 
 <p align="center">
-  <!-- Cloud -->
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>
@@ -45,7 +60,27 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
+<!-- Use your GitHub username exactly: raghavendragouda775 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavendragouda775&show_icons=true&count_private=true&theme=radical" alt="Raghavendra's GitHub stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendragouda775&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+## 📌 Projects & Contributions
+- **E-Learn Platform (MERN)** — online learning with video support, auth, and admin.
+- **CODEHUB** — real-time collaborative editor using Socket.io, React, ShadCN UI, Express.
+- **Portfolio** — React + Tailwind + Framer Motion.
+- **Kidzian** — EdTech platform UI (cards, PWA, dark-mode).
+- (Add links to repos or deployed sites here)
+
+---
+
+## ✉️ Want to collaborate?
+Drop me a mail at raghutimmanagoudar22@gmail.com or connect on LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
