@@ -72,19 +72,22 @@ Every bug has a story — I debug the story!
 ## 📊 GitHub Stats (Fixed & Working)
 <div align="center">
 
-<!-- using a fallback mirror for guaranteed loading -->
-<img height="180em" src="https://github-readme-stats-git-master-orgs-projects.vercel.app/api?username=raghavendragouda775&show_icons=true&theme=tokyonight" />
+<img height="180em" 
+src="https://github-readme-stats-mirror.vercel.app/api?username=raghavendragouda775&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats-git-master-orgs-projects.vercel.app/api/top-langs/?username=raghavendragouda775&layout=compact&theme=tokyonight" />
+<img height="180em" 
+src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=raghavendragouda775&layout=compact&theme=tokyonight" />
 
 </div>
+
 
 ---
 
 ## 🔥 Streak Stats
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendragouda775&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=raghavendragouda775&theme=tokyonight" />
 </div>
+
 
 ---
 
