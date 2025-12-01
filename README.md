@@ -69,7 +69,7 @@ Every bug has a story — I debug the story!
 
 ---
 
-## 📊 GitHub Stats (Fixed & Working)
+## 📊 GitHub Stats 
 <div align="center">
 
 <img height="180em" 
