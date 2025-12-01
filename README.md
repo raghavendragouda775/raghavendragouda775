@@ -41,11 +41,11 @@ portfolio: Coming Soon...
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /> </div>
 <div align="center">
 🔥 GitHub Analytics
-🏆 Trophies
+🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=raghavendragouda775&theme=tokyonight&no-frame=true&row=1&column=7" />
-📊 Stats
+📊 GitHub Stats
 <p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghavendragouda775&show_icons=true&theme=tokyonight" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendragouda775&layout=compact&theme=tokyonight" /> </p>
-🔥 Streaks
+🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendragouda775&theme=tokyonight" />
 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavendragouda775&theme=tokyo-night" width="100%" /> </div>
